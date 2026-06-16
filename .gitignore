@@ -1,0 +1,22 @@
+# Exclude large dataset and local data files
+data/
+candidates.jsonl
+candidates.jsonl.gz
+
+# Python virtual environment and caching
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.venv/
+env/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Local task logs and test outputs
+.system_generated/
+*.log
