@@ -5,15 +5,15 @@
 # ============================================================================
 # Team identity
 # ============================================================================
-team_name: "Team Antigravity"  # Used in leaderboard and announcements
+team_name: "TrustAi"  # Used in leaderboard and announcements
 
 primary_contact:
-  name: "Ajai"
+  name: "Ajai S"
   email: "ajai@example.com"   # Used for all organizer communication
   phone: "+91-9999999999"        # Used for top-50 / top-10 outreach
 
 team_members:
-  - name: "Ajai"
+  - name: "Ajai S"
     email: "ajai@example.com"
     role: "ML Engineer"          # Optional, e.g. "Team Lead", "Backend", "Data"
 
